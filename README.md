@@ -38,4 +38,17 @@ Looks like a lot of effort, lets see if gpt and suggest a MORE reduce set
 I remember getting an assignment in UoA where we had to write a program to simulate [little computer 3](https://en.wikipedia.org/wiki/Little_Computer_3), which was a 16-bit computer. 
 wonder if we could create that fictional PC but in real life.
 
+#### Let's start with a simple program
+
+```
+.section .text
+.global _start
+
+_start:
+    addi x1, x0, 5     # x1 = 5
+    addi x2, x0, 10    # x2 = 10
+    add  x3, x1, x2    # x3 = x1 + x2
+    ebreak             # Stop execution
+```
+
 ---
