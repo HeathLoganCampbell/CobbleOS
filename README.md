@@ -31,6 +31,11 @@ J-type	Jumps
 
 <img width="819" alt="image" src="https://github.com/user-attachments/assets/32c36123-a035-4421-9c1f-1be634b7766c" />
 
+Looks like a lot of effort, lets see if gpt and suggest a MORE reduce set
+
+<img width="818" alt="image" src="https://github.com/user-attachments/assets/c2ce8e1a-e869-4c04-9205-07f1b9d6271c" />
+
+
 
 
 
