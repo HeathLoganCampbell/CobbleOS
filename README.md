@@ -79,5 +79,7 @@ I guess, I should learn how to write `hello world` in RISC Instruction set.
 | \n        | 0x0A  |
 | NUL (\0)  | 0x00  |
 
+So we want to write the above string at the end of our program. then reference that
+
 
 ---
