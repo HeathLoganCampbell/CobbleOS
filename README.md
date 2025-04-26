@@ -35,8 +35,7 @@ Looks like a lot of effort, lets see if gpt and suggest a MORE reduce set
 
 <img width="818" alt="image" src="https://github.com/user-attachments/assets/c2ce8e1a-e869-4c04-9205-07f1b9d6271c" />
 
-
-
-
+I remember getting an assignment in UoA where we had to write a program to simulate [little computer 3](https://en.wikipedia.org/wiki/Little_Computer_3), which was a 16-bit computer. 
+wonder if we could create that fictional PC but in real life.
 
 ---
