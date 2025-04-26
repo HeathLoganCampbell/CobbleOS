@@ -53,4 +53,10 @@ _start:
 
 I guess it's simple to write an assembler to convert plain, clear English to machine code.
 
+#### Abstraction is king
+Software is all about abstraction.
+Abstractions remove cognitive load in a few dimensions.
+So sometimes It's fun to make your own abstractions from the ground up.
+
+
 ---
