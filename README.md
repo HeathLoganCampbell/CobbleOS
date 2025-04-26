@@ -51,4 +51,6 @@ _start:
     ebreak             # Stop execution
 ```
 
+I guess it's simple to write an assembler to convert plain, clear English to machine code.
+
 ---
