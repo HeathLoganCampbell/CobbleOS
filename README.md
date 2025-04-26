@@ -61,6 +61,21 @@ So sometimes It's fun to make your own abstractions from the ground up.
 ##### Level 1: Machine code.
 I guess, I should learn how to write `hello world` in RISC Instruction set.
 
-
+Character | Hex
+H | 0x48
+e | 0x65
+l | 0x6C
+l | 0x6C
+o | 0x6F
+, | 0x2C
+  | 0x20
+w | 0x77
+o | 0x6F
+r | 0x72
+l | 0x6C
+d | 0x64
+! | 0x21
+\n | 0x0A
+NUL (\0) | 0x00
 
 ---
